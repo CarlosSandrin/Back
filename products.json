@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Play Station 4",
+    "description": "Version Black Slim",
+    "thumbnail": "image",
+    "stock": 8,
+    "price": 120000,
+    "code": "abc123"
+  },
+
+  {
+    "title": "Play Station 4",
+    "description": "Version white Slim",
+    "thumbnail": "image",
+    "stock": 4,
+    "price": 115000,
+    "code": "abc125"
+  },
+
+  {
+    "title": "Nintendo Switch",
+    "description": "Version Multicolor",
+    "thumbnail": "image",
+    "stock": 7,
+    "price": 110000,
+    "code": "abc126"
+  },
+  {
+    "title": "Xbox ONE",
+    "description": "Version Black",
+    "thumbnail": "image",
+    "stock": 6,
+    "price": 125000,
+    "code": "abc127"
+  },
+  {
+    "title": "Xbox 360",
+    "description": "Version Clasica",
+    "thumbnail": "image",
+    "stock": 9,
+    "price": 90000,
+    "code": "abc128"
+  }
+]
