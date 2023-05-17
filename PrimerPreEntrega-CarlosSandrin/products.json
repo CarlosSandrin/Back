@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Play Station 4 Slim",
+    "description": "Consola de Video Juegos version Delgada",
+    "price": 180000,
+    "thumbnail": "/a",
+    "code": "1",
+    "stock": 5,
+    "status": true,
+    "category": "Consolas de Videos Juegos",
+    "id": 1
+  },
+  {
+    "title": "Play Station 4 White",
+    "description": "Consola Sony version White",
+    "price": 530000,
+    "thumbnail": "/b",
+    "code": "12",
+    "stock": 3,
+    "status": true,
+    "category": "Play Station 5",
+    "id": 2
+  },
+  {
+    "title": "X Box ONE Series",
+    "description": "Consola de Microsoft Color Black",
+    "price": 335000,
+    "thumbnail": "/c",
+    "code": "123",
+    "stock": 1,
+    "status": true,
+    "category": "Consolas de Videos Juegos",
+    "id": 3
+  },
+  {
+    "title": "Nintendo Switch",
+    "description": "Consola Nintendo Multicolor",
+    "price": 124000,
+    "thumbnail": "/d",
+    "code": "34523",
+    "stock": 3,
+    "status": true,
+    "category": "Consolas de Videos Juegos",
+    "id": 4
+  },
+  {
+    "title": "producto prueba",
+    "description": "descripcion de producto",
+    "price": 128000,
+    "thumbnail": "/e",
+    "code": "34466",
+    "stock": 5,
+    "status": true,
+    "category": "Consolas de Videos Juegos",
+    "id": 5
+  },
+  {
+    "title": "producto prueba",
+    "description": "descripcion de producto",
+    "price": 20000,
+    "thumbnail": "/f",
+    "code": "87456",
+    "stock": 7,
+    "status": true,
+    "category": "Juegos",
+    "id": 6
+  },
+  {
+    "title": "producto prueba",
+    "description": "descripcion de producto",
+    "price": 17500,
+    "thumbnail": "/g",
+    "code": "89755",
+    "stock": 9,
+    "status": true,
+    "category": "Juegos",
+    "id": 7
+  },
+  {
+    "title": "producto prueba",
+    "description": "descripcion de producto",
+    "price": 19600,
+    "thumbnail": "/h",
+    "code": "12312",
+    "stock": 11,
+    "status": true,
+    "category": "Juegos",
+    "id": 8
+  },
+  {
+    "title": "producto prueba",
+    "description": "descripcion de producto",
+    "price": 12000,
+    "thumbnail": "/i",
+    "code": "13213",
+    "stock": 13,
+    "status": true,
+    "category": "Juegos",
+    "id": 9
+  },
+  {
+    "title": "producto prueba",
+    "description": "descripcion de producto",
+    "price": 16700,
+    "thumbnail": "/j",
+    "code": "113133",
+    "stock": 15,
+    "status": true,
+    "category": "Juegos",
+    "id": 10
+  }
+]
